@@ -1,4 +1,4 @@
-***Feel free to add to this overview if you have useful information to share*** 
+***Feel free to contact us if you have useful information to share*** 
 
 ## Good general resources
 * [Mozilla Web Development](https://developer.mozilla.org/en-US/)
