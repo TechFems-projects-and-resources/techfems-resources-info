@@ -10,7 +10,7 @@
 
 
 
-## Websites for free tutorials, books and courses
+## Websites for free tutorials, books and courses (some also mentioned above as general resources)
 * [freeCodeCamp](https://www.freecodecamp.org/)
 * [Flavio Copes](https://flaviocopes.com/)
 * [Mozilla Web Development](https://developer.mozilla.org/en-US/docs/Learn)
