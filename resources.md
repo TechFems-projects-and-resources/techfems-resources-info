@@ -7,10 +7,10 @@
 * [Stackoverflow](https://stackoverflow.com/)
 * [Medium](https://medium.com/topic/javascript)
 * [DEV](https://dev.to/)
-* [Goalkicker Free Programming Books](https://books.goalkicker.com/)
 
 
-## Websites for free tutorials and courses
+
+## Websites for free tutorials, books and courses
 * [freeCodeCamp](https://www.freecodecamp.org/)
 * [Flavio Copes](https://flaviocopes.com/)
 * [Mozilla Web Development](https://developer.mozilla.org/en-US/docs/Learn)
@@ -23,6 +23,7 @@
 * [CoreyMS](https://coreyms.com/category/development)
 * [Dave Ceddia](https://daveceddia.com/archives/) => articles and tutorials
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials) => Digital Ocean is a cloud platform for deploying apps etc., but its community creates articles and tutorials that are very useful
+* [Goalkicker Free Programming Books](https://books.goalkicker.com/)
 * [SoloLearn Coding Playground](https://www.sololearn.com/home)
 * [Web Development Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 * [HTML Dog: HTML/CSS/JavaScript Tutorials](https://htmldog.com/)
