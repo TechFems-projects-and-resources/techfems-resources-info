@@ -8,3 +8,4 @@
 * [Free Online JSON Formatter](https://www.freeformatter.com/json-formatter.html)
 * [JSON Lint: Online JSON Validator](https://jsonlint.com/)
 * [Lorem Ipsum Generator: create dummy text](https://lipsum.com/)
+* [Lorem Picsum: get dummy images](https://picsum.photos/)
