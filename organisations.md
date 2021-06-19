@@ -1,6 +1,6 @@
 ## Organisations for women in tech
 
-* [Codebar](codebar.io)
+* [Codebar](https://www.codebar.io)
 * [Women Who Code](https://www.womenwhocode.com/)
 
 
