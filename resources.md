@@ -79,6 +79,7 @@
 * [JavaScript Garden Documentation Collection](https://bonsaiden.github.io/JavaScript-Garden/)
 * [JavaScript Style Guide](https://education.launchcode.org/js-independent-track/appendices/style-guide.html)
 * [JavaScript Code Conventions](https://www.crockford.com/code.html)
+* [Book: You Don't Know JavaScript Yet](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md) with exercises etc.
 
 
 ### React
