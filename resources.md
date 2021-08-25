@@ -132,6 +132,7 @@
 * [IconFinder](https://www.iconfinder.com/icon-sets/featured/free)
 * [Flaticon Vector Icons](https://www.flaticon.com/)
 * [FreeIconsPNG](https://www.freeiconspng.com/search.html?q=graph+transparent+background&tip=icon)
+* [Free Spinner and Preloader animations](https://icons8.com/preloaders/)
 * [Google Fonts](https://fonts.google.com/)
 * [Urban Fonts](https://www.urbanfonts.com/)
 * [Open Font Library](https://fontlibrary.org/)
