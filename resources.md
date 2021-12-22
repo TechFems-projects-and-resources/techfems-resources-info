@@ -105,6 +105,21 @@
 * [Express Router Tutorial](https://learncybers.com/express-router-easy-static-dynamic-routing/)
 * [Getting Started with Express](https://www.youtube.com/watch?v=Z04bkB7g36E)
 
+### Python
+* [Official Python Documentation](https://www.python.org/)
+* [Real Python: Tutorials and documentation](https://realpython.com/)
+* [PYnative: Learn Python with Tutorials, Exercises, and Quizzes](https://pynative.com/)
+* [W3Schools Learn Python](https://www.w3schools.com/python/default.asp)
+* [Tutorials Point Learn Python](https://www.tutorialspoint.com/python/index.htm)
+* [Official Django Documentation](https://www.djangoproject.com/) (Django is a Python web framework)
+* [Python in MDN Docs](https://developer.mozilla.org/en-US/docs/Glossary/Python)
+* [Python Application Dependencies](https://www.fullstackpython.com/application-dependencies.html)
+* [Data Manipulation in Python with Panda Library](https://medium.com/analytics-and-data/become-a-pro-at-pandas-pythons-data-manipulation-library-264351b586b1)
+* [12 Useful Pandas Techniques in Python for Data Manipulation](https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/)
+* [Python SQLite 3 tutorial](https://pynative.com/python-sqlite/)
+* [CodingBat Python exercises](https://codingbat.com/python)
+* 
+
 ### Databases
 * [DBeaver website](https://dbeaver.com/) (tool for PostgreSQL; most used in the sector)
 * [DBeaver User Guide](https://dbeaver.com/doc/dbeaver.pdf) (pdf file downloads automatically)
