@@ -1,4 +1,4 @@
-# resources_info
+# Web resources and good information for learners
 
 Find info on websites, topics, tutorials, tools, challenges and on organisations for women in tech
 
